@@ -1,0 +1,15 @@
+C:\Users\Артем\source\repos\pz9\pz9\bin\Debug\net6.0\pz9.exe
+C:\Users\Артем\source\repos\pz9\pz9\bin\Debug\net6.0\pz9.deps.json
+C:\Users\Артем\source\repos\pz9\pz9\bin\Debug\net6.0\pz9.runtimeconfig.json
+C:\Users\Артем\source\repos\pz9\pz9\bin\Debug\net6.0\pz9.dll
+C:\Users\Артем\source\repos\pz9\pz9\bin\Debug\net6.0\pz9.pdb
+C:\Users\Артем\source\repos\pz9\pz9\obj\Debug\net6.0\pz9.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\pz9\pz9\obj\Debug\net6.0\pz9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\pz9\pz9\obj\Debug\net6.0\pz9.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\pz9\pz9\obj\Debug\net6.0\pz9.AssemblyInfo.cs
+C:\Users\Артем\source\repos\pz9\pz9\obj\Debug\net6.0\pz9.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\pz9\pz9\obj\Debug\net6.0\pz9.dll
+C:\Users\Артем\source\repos\pz9\pz9\obj\Debug\net6.0\refint\pz9.dll
+C:\Users\Артем\source\repos\pz9\pz9\obj\Debug\net6.0\pz9.pdb
+C:\Users\Артем\source\repos\pz9\pz9\obj\Debug\net6.0\pz9.genruntimeconfig.cache
+C:\Users\Артем\source\repos\pz9\pz9\obj\Debug\net6.0\ref\pz9.dll
