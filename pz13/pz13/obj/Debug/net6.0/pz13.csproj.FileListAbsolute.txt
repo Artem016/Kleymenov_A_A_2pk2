@@ -1,0 +1,15 @@
+C:\Users\kleymenov.aa1688\source\repos\pz13\pz13\obj\Debug\net6.0\pz13.csproj.AssemblyReference.cache
+C:\Users\kleymenov.aa1688\source\repos\pz13\pz13\obj\Debug\net6.0\pz13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kleymenov.aa1688\source\repos\pz13\pz13\obj\Debug\net6.0\pz13.AssemblyInfoInputs.cache
+C:\Users\kleymenov.aa1688\source\repos\pz13\pz13\obj\Debug\net6.0\pz13.AssemblyInfo.cs
+C:\Users\kleymenov.aa1688\source\repos\pz13\pz13\obj\Debug\net6.0\pz13.csproj.CoreCompileInputs.cache
+C:\Users\kleymenov.aa1688\source\repos\pz13\pz13\bin\Debug\net6.0\pz13.exe
+C:\Users\kleymenov.aa1688\source\repos\pz13\pz13\bin\Debug\net6.0\pz13.deps.json
+C:\Users\kleymenov.aa1688\source\repos\pz13\pz13\bin\Debug\net6.0\pz13.runtimeconfig.json
+C:\Users\kleymenov.aa1688\source\repos\pz13\pz13\bin\Debug\net6.0\pz13.dll
+C:\Users\kleymenov.aa1688\source\repos\pz13\pz13\bin\Debug\net6.0\pz13.pdb
+C:\Users\kleymenov.aa1688\source\repos\pz13\pz13\obj\Debug\net6.0\pz13.dll
+C:\Users\kleymenov.aa1688\source\repos\pz13\pz13\obj\Debug\net6.0\refint\pz13.dll
+C:\Users\kleymenov.aa1688\source\repos\pz13\pz13\obj\Debug\net6.0\pz13.pdb
+C:\Users\kleymenov.aa1688\source\repos\pz13\pz13\obj\Debug\net6.0\pz13.genruntimeconfig.cache
+C:\Users\kleymenov.aa1688\source\repos\pz13\pz13\obj\Debug\net6.0\ref\pz13.dll
