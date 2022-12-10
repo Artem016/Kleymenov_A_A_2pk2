@@ -1,0 +1,15 @@
+C:\Users\Артем\source\repos\pz_18.2\pz_18.2\bin\Debug\net6.0\pz_18.2.exe
+C:\Users\Артем\source\repos\pz_18.2\pz_18.2\bin\Debug\net6.0\pz_18.2.deps.json
+C:\Users\Артем\source\repos\pz_18.2\pz_18.2\bin\Debug\net6.0\pz_18.2.runtimeconfig.json
+C:\Users\Артем\source\repos\pz_18.2\pz_18.2\bin\Debug\net6.0\pz_18.2.dll
+C:\Users\Артем\source\repos\pz_18.2\pz_18.2\bin\Debug\net6.0\pz_18.2.pdb
+C:\Users\Артем\source\repos\pz_18.2\pz_18.2\obj\Debug\net6.0\pz_18.2.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\pz_18.2\pz_18.2\obj\Debug\net6.0\pz_18.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\pz_18.2\pz_18.2\obj\Debug\net6.0\pz_18.2.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\pz_18.2\pz_18.2\obj\Debug\net6.0\pz_18.2.AssemblyInfo.cs
+C:\Users\Артем\source\repos\pz_18.2\pz_18.2\obj\Debug\net6.0\pz_18.2.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\pz_18.2\pz_18.2\obj\Debug\net6.0\pz_18.2.dll
+C:\Users\Артем\source\repos\pz_18.2\pz_18.2\obj\Debug\net6.0\refint\pz_18.2.dll
+C:\Users\Артем\source\repos\pz_18.2\pz_18.2\obj\Debug\net6.0\pz_18.2.pdb
+C:\Users\Артем\source\repos\pz_18.2\pz_18.2\obj\Debug\net6.0\pz_18.2.genruntimeconfig.cache
+C:\Users\Артем\source\repos\pz_18.2\pz_18.2\obj\Debug\net6.0\ref\pz_18.2.dll
