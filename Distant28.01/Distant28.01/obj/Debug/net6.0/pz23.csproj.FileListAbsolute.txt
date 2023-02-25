@@ -1,0 +1,15 @@
+C:\Users\Артем\Source\Repos\Kleymenov_A_A_2pk2\Distant28.01\Distant28.01\obj\Debug\net6.0\pz23.csproj.AssemblyReference.cache
+C:\Users\Артем\Source\Repos\Kleymenov_A_A_2pk2\Distant28.01\Distant28.01\obj\Debug\net6.0\pz23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\Source\Repos\Kleymenov_A_A_2pk2\Distant28.01\Distant28.01\obj\Debug\net6.0\pz23.AssemblyInfoInputs.cache
+C:\Users\Артем\Source\Repos\Kleymenov_A_A_2pk2\Distant28.01\Distant28.01\obj\Debug\net6.0\pz23.AssemblyInfo.cs
+C:\Users\Артем\Source\Repos\Kleymenov_A_A_2pk2\Distant28.01\Distant28.01\obj\Debug\net6.0\pz23.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Source\Repos\Kleymenov_A_A_2pk2\Distant28.01\Distant28.01\bin\Debug\net6.0\pz23.exe
+C:\Users\Артем\Source\Repos\Kleymenov_A_A_2pk2\Distant28.01\Distant28.01\bin\Debug\net6.0\pz23.deps.json
+C:\Users\Артем\Source\Repos\Kleymenov_A_A_2pk2\Distant28.01\Distant28.01\bin\Debug\net6.0\pz23.runtimeconfig.json
+C:\Users\Артем\Source\Repos\Kleymenov_A_A_2pk2\Distant28.01\Distant28.01\bin\Debug\net6.0\pz23.dll
+C:\Users\Артем\Source\Repos\Kleymenov_A_A_2pk2\Distant28.01\Distant28.01\bin\Debug\net6.0\pz23.pdb
+C:\Users\Артем\Source\Repos\Kleymenov_A_A_2pk2\Distant28.01\Distant28.01\obj\Debug\net6.0\pz23.dll
+C:\Users\Артем\Source\Repos\Kleymenov_A_A_2pk2\Distant28.01\Distant28.01\obj\Debug\net6.0\refint\pz23.dll
+C:\Users\Артем\Source\Repos\Kleymenov_A_A_2pk2\Distant28.01\Distant28.01\obj\Debug\net6.0\pz23.pdb
+C:\Users\Артем\Source\Repos\Kleymenov_A_A_2pk2\Distant28.01\Distant28.01\obj\Debug\net6.0\pz23.genruntimeconfig.cache
+C:\Users\Артем\Source\Repos\Kleymenov_A_A_2pk2\Distant28.01\Distant28.01\obj\Debug\net6.0\ref\pz23.dll
