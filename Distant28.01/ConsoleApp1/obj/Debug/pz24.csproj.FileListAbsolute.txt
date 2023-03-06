@@ -1,0 +1,8 @@
+C:\Users\Артем\source\repos\Kleymenov_A_A_2pk2New\Distant28.01\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Артем\source\repos\Kleymenov_A_A_2pk2New\Distant28.01\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Артем\source\repos\Kleymenov_A_A_2pk2New\Distant28.01\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Артем\source\repos\Kleymenov_A_A_2pk2New\Distant28.01\ConsoleApp1\obj\Debug\pz24.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\Kleymenov_A_A_2pk2New\Distant28.01\ConsoleApp1\obj\Debug\pz24.csproj.SuggestedBindingRedirects.cache
+C:\Users\Артем\source\repos\Kleymenov_A_A_2pk2New\Distant28.01\ConsoleApp1\obj\Debug\pz24.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\Kleymenov_A_A_2pk2New\Distant28.01\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Артем\source\repos\Kleymenov_A_A_2pk2New\Distant28.01\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

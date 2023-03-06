@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Артем\\Source\\Repos\\Kleymenov_A_A_2pk2\\Distant28.01\\Distant28.01\\pz23.csproj": {}
+    "C:\\Users\\Артем\\Source\\Repos\\Kleymenov_A_A_2pk2New\\Distant28.01\\Distant28.01\\pz23.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Артем\\Source\\Repos\\Kleymenov_A_A_2pk2\\Distant28.01\\Distant28.01\\pz23.csproj": {
+    "C:\\Users\\Артем\\Source\\Repos\\Kleymenov_A_A_2pk2New\\Distant28.01\\Distant28.01\\pz23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Артем\\Source\\Repos\\Kleymenov_A_A_2pk2\\Distant28.01\\Distant28.01\\pz23.csproj",
+        "projectUniqueName": "C:\\Users\\Артем\\Source\\Repos\\Kleymenov_A_A_2pk2New\\Distant28.01\\Distant28.01\\pz23.csproj",
         "projectName": "pz23",
-        "projectPath": "C:\\Users\\Артем\\Source\\Repos\\Kleymenov_A_A_2pk2\\Distant28.01\\Distant28.01\\pz23.csproj",
+        "projectPath": "C:\\Users\\Артем\\Source\\Repos\\Kleymenov_A_A_2pk2New\\Distant28.01\\Distant28.01\\pz23.csproj",
         "packagesPath": "C:\\Users\\Артем\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Артем\\Source\\Repos\\Kleymenov_A_A_2pk2\\Distant28.01\\Distant28.01\\obj\\",
+        "outputPath": "C:\\Users\\Артем\\Source\\Repos\\Kleymenov_A_A_2pk2New\\Distant28.01\\Distant28.01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
