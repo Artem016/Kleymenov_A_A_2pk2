@@ -1,0 +1,8 @@
+C:\Users\Артем\source\repos\pz27\bin\Debug\pz27.exe.config
+C:\Users\Артем\source\repos\pz27\bin\Debug\pz27.exe
+C:\Users\Артем\source\repos\pz27\bin\Debug\pz27.pdb
+C:\Users\Артем\source\repos\pz27\obj\Debug\pz27.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\pz27\obj\Debug\pz27.csproj.SuggestedBindingRedirects.cache
+C:\Users\Артем\source\repos\pz27\obj\Debug\pz27.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\pz27\obj\Debug\pz27.exe
+C:\Users\Артем\source\repos\pz27\obj\Debug\pz27.pdb
