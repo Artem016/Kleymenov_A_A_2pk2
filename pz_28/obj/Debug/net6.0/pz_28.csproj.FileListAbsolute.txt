@@ -1,0 +1,15 @@
+C:\Users\Артем\source\repos\Artem016\Kleymenov_A_A_2pk2\pz_28\bin\Debug\net6.0\pz_28.exe
+C:\Users\Артем\source\repos\Artem016\Kleymenov_A_A_2pk2\pz_28\bin\Debug\net6.0\pz_28.deps.json
+C:\Users\Артем\source\repos\Artem016\Kleymenov_A_A_2pk2\pz_28\bin\Debug\net6.0\pz_28.runtimeconfig.json
+C:\Users\Артем\source\repos\Artem016\Kleymenov_A_A_2pk2\pz_28\bin\Debug\net6.0\pz_28.dll
+C:\Users\Артем\source\repos\Artem016\Kleymenov_A_A_2pk2\pz_28\bin\Debug\net6.0\pz_28.pdb
+C:\Users\Артем\source\repos\Artem016\Kleymenov_A_A_2pk2\pz_28\obj\Debug\net6.0\pz_28.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\Artem016\Kleymenov_A_A_2pk2\pz_28\obj\Debug\net6.0\pz_28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\Artem016\Kleymenov_A_A_2pk2\pz_28\obj\Debug\net6.0\pz_28.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\Artem016\Kleymenov_A_A_2pk2\pz_28\obj\Debug\net6.0\pz_28.AssemblyInfo.cs
+C:\Users\Артем\source\repos\Artem016\Kleymenov_A_A_2pk2\pz_28\obj\Debug\net6.0\pz_28.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\Artem016\Kleymenov_A_A_2pk2\pz_28\obj\Debug\net6.0\pz_28.dll
+C:\Users\Артем\source\repos\Artem016\Kleymenov_A_A_2pk2\pz_28\obj\Debug\net6.0\refint\pz_28.dll
+C:\Users\Артем\source\repos\Artem016\Kleymenov_A_A_2pk2\pz_28\obj\Debug\net6.0\pz_28.pdb
+C:\Users\Артем\source\repos\Artem016\Kleymenov_A_A_2pk2\pz_28\obj\Debug\net6.0\pz_28.genruntimeconfig.cache
+C:\Users\Артем\source\repos\Artem016\Kleymenov_A_A_2pk2\pz_28\obj\Debug\net6.0\ref\pz_28.dll
