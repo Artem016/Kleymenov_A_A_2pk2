@@ -8,5 +8,9 @@ namespace pz28._2
 {
     internal class Message
     {
+        public void MessageByTemperature(int temp1, int temp2, int temp3, int temp4)
+        {
+            
+        }
     }
 }
