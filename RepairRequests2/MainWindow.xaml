@@ -5,12 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RepairRequests2"
         mc:Ignorable="d"
+        MaxHeight="450" MinHeight="450" MaxWidth="800" MinWidth="800"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="AddRequest" Height="100" Width="100" Click="AddRequest_Click" 
-                Margin="650,300,50,34 " 
                 FontWeight = "ExtraBold"  
-                RenderTransformOrigin="0.483,1.517">
+                RenderTransformOrigin="0.483,1.517" Margin="654,287,46,47">
             <Image Source="Images/AddRequestImage.png"></Image>
             <Button.Resources>
                 <Style TargetType="Border">
