@@ -5,14 +5,26 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RepairRequests2"
         mc:Ignorable="d"
-        Title="AddRequestWindow" Height="320" Width="450">
+        Title="AddRequestWindow" Height="410" Width="450">
     <Grid>
         <StackPanel>
-            <TextBox x:Name="FioTextBox" Height="30">Фамилия Имя Отчество</TextBox>
-            <TextBox x:Name="TypeEquipmenTextBox" Height="30">Тип техники</TextBox>
-            <TextBox x:Name="BrandEquimenTextBox" Height="30">Бренд техники</TextBox>
-            <TextBox x:Name="ModelEquimenTextBox" Height="30">Модель техники</TextBox>
-            <TextBox x:Name="DiscriptionProblemTextBox" Height="200">Описание проблемы</TextBox>
+            <TextBlock>ФИО</TextBlock>
+                <TextBox x:Name="FioTextBox" Height="30"/>
+
+            <TextBlock>Тип техники</TextBlock>
+                <TextBox x:Name="TypeEquipmenTextBox" Height="30"></TextBox>
+
+            <TextBlock>Бренд техники</TextBlock>
+                <TextBox x:Name="BrandEquimenTextBox" Height="30"></TextBox>
+
+            <TextBlock>Модель техники</TextBlock>
+                <TextBox x:Name="ModelEquimenTextBox" Height="30"></TextBox>
+
+            <TextBlock>Описание проблемы</TextBlock>
+                <TextBox x:Name="DiscriptionProblemTextBox" Height="140"></TextBox>
+
+            <Button x:Name="SaveRequest" Height="30" Width="100" Content="Сохранить"
+                    HorizontalAlignment="Right" Click="SaveRequest_Click"></Button>
 
         </StackPanel>
     </Grid>

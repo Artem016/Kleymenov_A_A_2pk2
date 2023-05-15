@@ -23,5 +23,10 @@ namespace RepairRequests2
         {
             InitializeComponent();
         }
+
+        private void SaveRequest_Click(object sender, RoutedEventArgs e)
+        {
+            //Косте нужно написать логику сохранения заявки и информации о ней.
+        }
     }
 }

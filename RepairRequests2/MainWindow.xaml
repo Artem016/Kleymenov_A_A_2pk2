@@ -7,7 +7,18 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="AddRequest" Height="100" Width="100" Click="AddRequest_Click"></Button>
+        <Button x:Name="AddRequest" Height="100" Width="100" Click="AddRequest_Click" 
+                Margin="650,300,50,34 " 
+                FontWeight = "ExtraBold"  
+                RenderTransformOrigin="0.483,1.517">
+            <Image Source="Images/AddRequestImage.png"></Image>
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="10"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+
         <!--Создание кнопким с именем и размерами-->
     </Grid>
 </Window>
