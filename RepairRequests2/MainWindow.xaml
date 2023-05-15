@@ -11,6 +11,7 @@
         <Grid.ColumnDefinitions>
             <ColumnDefinition></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
         
         <Button x:Name="AddRequest" Grid.Column="3" Click="AddRequest_Click" 
@@ -18,14 +19,12 @@
             <Image Source="Images/AddRequestImage.png"></Image>
         </Button>
 
-        <ListBox Name="phonesList">
-            <TextBlock FontWeight="Bold" TextDecorations="Underline" Text="Новинки 2015 года" />
-            <ListBoxItem Background="LightGray">LG Nexus 5X</ListBoxItem>
-            <ListBoxItem>Huawei Nexus 6P</ListBoxItem>
-            <ListBoxItem Background="LightGray">iPhone 6S</ListBoxItem>
-            <ListBoxItem>iPhone 6S Plus</ListBoxItem>
-            <ListBoxItem Background="LightGray">Аsus Zenphone 2</ListBoxItem>
-            <ListBoxItem>Microsoft Lumia 950</ListBoxItem>
+        <ListBox>
+            <Button>
+                <TextBlock x:Name="СlientName"></TextBlock>
+                
+            </Button>
+
         </ListBox>
 
         <!--Создание кнопким с именем и размерами-->
