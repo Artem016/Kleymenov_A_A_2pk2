@@ -8,5 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button x:Name="AddRequest" Height="100" Width="100" Click="AddRequest_Click"></Button>
+        <!--Создание кнопким с именем и размерами-->
     </Grid>
 </Window>

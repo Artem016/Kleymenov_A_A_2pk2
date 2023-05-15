@@ -5,8 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RepairRequests2"
         mc:Ignorable="d"
-        Title="AddRequestWindow" Height="450" Width="800">
+        Title="AddRequestWindow" Height="320" Width="450">
     <Grid>
-        <Button></Button>
+        <StackPanel>
+            <TextBox x:Name="FioTextBox" Height="30">Фамилия Имя Отчество</TextBox>
+            <TextBox x:Name="TypeEquipmenTextBox" Height="30">Тип техники</TextBox>
+            <TextBox x:Name="BrandEquimenTextBox" Height="30">Бренд техники</TextBox>
+            <TextBox x:Name="ModelEquimenTextBox" Height="30">Модель техники</TextBox>
+            <TextBox x:Name="DiscriptionProblemTextBox" Height="200">Описание проблемы</TextBox>
+
+        </StackPanel>
     </Grid>
 </Window>
