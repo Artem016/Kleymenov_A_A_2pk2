@@ -13,24 +13,36 @@
             <ColumnDefinition></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
-        
-        <Grid Grid.Column="1">
-            <Button x:Name="AddRequest" Click="AddRequest_Click" 
-                    FontWeight = "ExtraBold" Height="50" Width="50" HorizontalAlignment="Right" VerticalAlignment="Bottom">
-                <Image Source="Images/AddRequestImage.png"></Image>
-            </Button>
-        </Grid>
+
 
         <Grid Grid.Column="0">
             <StackPanel>
                 <Button>
                     <TextBlock x:Name="СlientName" HorizontalAlignment="Left">ФИО</TextBlock>
-
                 </Button>
-                
+
             </StackPanel>
 
         </Grid>
+
+        <Grid Grid.Column="1">
+            <Button x:Name="AddRequest" Click="AddRequest_Click" 
+                    FontWeight = "ExtraBold" Height="50" Width="50" HorizontalAlignment="Right" VerticalAlignment="Bottom">
+                <Image Source="Images/AddRequestImage.png"></Image>
+            </Button>
+
+            <CheckBox x:Name="IsDoneShow" Grid.Row="0" Grid.Column="1"
+                  Content="Показывать выполненые заявки"
+                  FontWeight="Bold" Foreground="#363636"
+                  VerticalAlignment="Top" Checked="IsDoneShow_Checked">
+                <CheckBox.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="CornerRadius" Value="2"/>
+                    </Style>
+                </CheckBox.Resources>
+            </CheckBox>
+        </Grid>
+
         <!--Создание кнопким с именем и размерами-->
         
     </Grid>

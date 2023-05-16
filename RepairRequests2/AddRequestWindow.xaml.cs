@@ -26,7 +26,7 @@ namespace RepairRequests2
 
         private void SaveRequest_Click(object sender, RoutedEventArgs e)
         {
-            //Косте нужно написать логику сохранения заявки и информации о ней.
+            Request request = new Request(FioTextBox.Text, TypeEquipmenTextBox.Text, BrandEquimenTextBox.Text, ModelEquimenTextBox.Text, DiscriptionProblemTextBox.Text, false, DateTime.Now);
         }
     }
 }
