@@ -5,28 +5,32 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RepairRequests2"
         mc:Ignorable="d"
-        MaxHeight="450" MinHeight="450" MaxWidth="800" MinWidth="800"
-        Title="MainWindow" Height="450" Width="800">
+        MaxHeight="450" MinHeight="450" MaxWidth="450" MinWidth="450"
+        Title="MainWindow" Height="450" Width="450">
+
     <Grid ShowGridLines="True">
         <Grid.ColumnDefinitions>
             <ColumnDefinition></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
-            <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
         
-        <Button x:Name="AddRequest" Grid.Column="3" Click="AddRequest_Click" 
-                FontWeight = "ExtraBold" Height="50" Width="50" HorizontalAlignment="Right" VerticalAlignment="Bottom">
-            <Image Source="Images/AddRequestImage.png"></Image>
-        </Button>
-
-        <ListBox>
-            <Button>
-                <TextBlock x:Name="СlientName"></TextBlock>
-                
+        <Grid Grid.Column="1">
+            <Button x:Name="AddRequest" Click="AddRequest_Click" 
+                    FontWeight = "ExtraBold" Height="50" Width="50" HorizontalAlignment="Right" VerticalAlignment="Bottom">
+                <Image Source="Images/AddRequestImage.png"></Image>
             </Button>
+        </Grid>
 
-        </ListBox>
+        <Grid Grid.Column="0">
+            <StackPanel>
+                <Button>
+                    <TextBlock x:Name="СlientName" HorizontalAlignment="Left">ФИО</TextBlock>
 
+                </Button>
+                
+            </StackPanel>
+
+        </Grid>
         <!--Создание кнопким с именем и размерами-->
         
     </Grid>
